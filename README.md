@@ -2,7 +2,5 @@
 
 Structure & Basic Components in Our First App
 
-How to Use View
-How to Use Text
-How to Use Button 
+How to use this 3 components on React Native (<View> <Text> <Button> )
 
